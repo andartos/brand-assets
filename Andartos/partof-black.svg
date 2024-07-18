@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="201.27168mm"
+   height="14.625949mm"
+   viewBox="0 0 201.27168 14.625949"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-8.728307,-224.02354)">
+    <g
+       id="g83"
+       transform="translate(-0.46134042,73.544023)">
+      <g
+         id="g85"
+         transform="translate(0.33391357,0.08347839)">
+        <g
+           id="g86">
+          <g
+             id="g100">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.13431px;font-family:'Inter Display';-inkscape-font-specification:'Inter Display, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.305036"
+               x="54.294182"
+               y="81.914268"
+               id="text63"><tspan
+                 id="tspan63"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.29028px;font-family:'Inter Display';-inkscape-font-specification:'Inter Display, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.305036"
+                 x="54.294182"
+                 y="81.914268">Part of</tspan></text>
+            <use
+               x="0"
+               y="0"
+               xlink:href="#g58"
+               id="use63"
+               transform="matrix(0.37396295,0,0,0.37396295,58.401581,65.897484)" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.38581px;font-family:'Inter Display';-inkscape-font-specification:'Inter Display, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.171353"
+               x="124.72926"
+               y="81.914268"
+               id="text64"><tspan
+                 id="tspan64"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.29028px;font-family:'Inter Display';-inkscape-font-specification:'Inter Display, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.171353"
+                 x="124.72926"
+                 y="81.914268">Limited</tspan></text>
+          </g>
+        </g>
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g85"
+         id="use85"
+         transform="matrix(2.0487605,0,0,2.0487605,-103.6508,-3.0873287)" />
+    </g>
+  </g>
+</svg>
